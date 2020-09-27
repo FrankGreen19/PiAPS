@@ -16,7 +16,7 @@ public class Director {
 
     public void createNotebook(Builder builder) {
         builder.setType(Type.NOTEBOOK);
-        builder.setCPU(new CPU("Intel", 2300, 4));
+        builder.setCPU(new CPU("IntelCPU", 2300, 4));
         builder.setVideoCard(new VideoCard("NVIDIA", 1500, 4));
         builder.setMemory(1);
         builder.setRAM(8);

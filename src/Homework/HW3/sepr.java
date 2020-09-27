@@ -1,4 +1,4 @@
-package Homework.HW2;
+package Homework.HW3;
 
 public class sepr {
 }
